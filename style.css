@@ -1,0 +1,26 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-color: white;
+}
+.header{
+    background-color: gold;
+    color:blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black;
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    border: solid black;
+    background-color: blue;
+    color: black;
+    padding: 10px;
+    font-weight: 800;
+    text-decoration: none;
+}
